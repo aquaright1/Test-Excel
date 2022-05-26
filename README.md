@@ -19,9 +19,13 @@ strings must be inputted in the format of "<message here!>"
  
 # Cell Types
   the spreadshet currently supports the following types (with examples):
+ 
   C2: the text value “hello”
+ 
   C3: the real value 2.0
+ 
   D3: the real value 4.0
+ 
   A1: the percent value 3%
 
 # Forumalas
