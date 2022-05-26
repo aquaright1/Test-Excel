@@ -26,4 +26,5 @@ strings must be inputted in the format of "<message here!>"
 
 # Forumalas
   <cell> = ( sum lower-upper): finds the sum of a range in 2d space, then assigns that to a cell
+   
   <cell> = ( avg lower-upper): finds the avg of a range in 2d space, then assigns that to a cell
